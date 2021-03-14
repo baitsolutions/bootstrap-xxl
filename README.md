@@ -1,7 +1,7 @@
 # bootstrap-xxl
 Bootstrap with additional breakpoint xxl.
 
-This Resporitory is a SCSS compiled version of the original Bootstrap source of each branche.
+This repository is a SCSS compiled version of the original Bootstrap source of each release.
 
 Breakpoints:
   --breakpoint-xs: 0;
